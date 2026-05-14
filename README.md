@@ -40,6 +40,18 @@ both red and white, described by the following physicochemical properties:
 
 The `quality` column is your target. Your model predicts the quality score directly (3–9).
 
+## Resources 
+
+You've learned everything so far. Use the exercises you've done as a reference. By now, you should 
+have working versions in your own repositories.
+
+- Git Basics: https://github.com/peterrietzler/ais-dev2il-ais-power-smoothie-recipes
+- Zero Configuration & Unit Testing: https://github.com/peterrietzler/ais-dev2il-ais-power-smoothie-maker
+- CI Pipelines: https://github.com/peterrietzler/ais-dev2il-ais-power-smoothie-maker-ci
+- Docker: https://github.com/peterrietzler/ais-dev2il-ais-power-smoothie-delivery-box
+- Observability: https://github.com/peterrietzler/ais-dev2il-smoothie-shop
+- MLOPs: https://github.com/peterrietzler/ais-dev2il-mlops-taxi-rides-v2
+
 ## 📦 Phase 1: Explore & Version the Data
 
 - Explore the dataset: understand the distribution of `quality`, check for missing values, look at class balance

@@ -1,1 +1,3 @@
-.idea/
+.idea/mlflow.db
+mlruns/
+models/*.pkl

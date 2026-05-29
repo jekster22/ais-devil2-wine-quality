@@ -1,0 +1,19 @@
+[project]
+name = "ais-devil2-wine-quality"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dvc>=3.67.1",
+    "fastapi>=0.136.3",
+    "joblib>=1.5.3",
+    "mlflow>=3.12.0",
+    "pandas>=2.3.3",
+    "prometheus-fastapi-instrumentator>=7.1.0",
+    "pydantic>=2.13.4",
+    "pytest>=9.0.3",
+    "ruff>=0.15.15",
+    "scikit-learn>=1.8.0",
+    "uvicorn>=0.48.0",
+]

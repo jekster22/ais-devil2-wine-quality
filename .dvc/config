@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+    remote = origin
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/jekster22/ais-devil2-wine-quality.s3
